@@ -7,7 +7,7 @@ export default function Header() {
         <h3 className='font-bold text-xl text-blue-700'>Leonardo Abreu</h3>
         <div className='bg-white w-max flex justify-center items-center gap-2 p-1 rounded-sm'>
           <FaGithub />
-          <a href='https://github.com/leomitas/desafio1'>Repositório</a>
+          <a href='https://github.com/leomitas/desafio2'>Repositório</a>
         </div>
       </div>
     </header>
